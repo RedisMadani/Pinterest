@@ -1,8 +1,9 @@
-# WaterfallView
+# Pinterest
 
+![Pinterest](https://github.com/RedisMadani/Pinterest/assets/136177376/347835d3-09c3-45e6-a775-be5419d9dc44)
 
 ## Description
-WaterfallView is a simple iOS app that demonstrates the implementation of a waterfall layout. While it isn't an exact replica of the famous waterfall app, it provides a basic understanding of how to achieve a similar effect by subclassing UICollectionView and dynamically adjusting the height of each item using custom layout attributes.
+Pinterest is a simple iOS app that demonstrates the implementation of a waterfall layout. While it isn't an exact replica of the famous waterfall app, it provides a basic understanding of how to achieve a similar effect by subclassing UICollectionView and dynamically adjusting the height of each item using custom layout attributes.
 
 ## Features
 - Waterfall Layout: Experience a visually pleasing and dynamic arrangement of items in a grid-like fashion.
@@ -10,11 +11,11 @@ WaterfallView is a simple iOS app that demonstrates the implementation of a wate
 - Dynamic Height Adjustment: Explore the technique of dynamically adjusting the height of each item based on its content.
 
 ## Getting Started
-To get started with WaterfallView, follow these simple steps:
+To get started with Pinterest, follow these simple steps:
 
 1. Clone the repository:
 ```
-git clone https://github.com/RedisMadani/waterfallview.git
+git clone https://github.com/RedisMadani/Pinterest.git
 ```
 
 2. Open the Xcode project.
@@ -31,7 +32,7 @@ git clone https://github.com/RedisMadani/waterfallview.git
 - iOS 11.0 or higher
 
 ## Contributions
-Contributions to WaterfallView are always welcome! If you have any ideas for improvements, bug fixes, or general feedback, please submit a pull request or open an issue on the GitHub repository.
+Contributions to Pinterest are always welcome! If you have any ideas for improvements, bug fixes, or general feedback, please submit a pull request or open an issue on the GitHub repository.
 
 ## License
 This project is licensed under the MIT License. Feel free to use it for personal or commercial purposes.
